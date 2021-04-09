@@ -2,10 +2,10 @@
 js 常见算法题
 
 	
-- [x] 两数之和
-- [x] 整数反转
-- [x] 回文数  
-- [x] 罗马数字转整数   
+- [x] [两数之和 -1](https://github.com/HUYIJUNCODING/algorithm/blob/master/lib/array.js)
+- [x] [整数反转 -1](https://github.com/HUYIJUNCODING/algorithm/blob/master/lib/mathematics.js)
+- [x] [回文数 -2](https://github.com/HUYIJUNCODING/algorithm/blob/master/lib/mathematics.js)  
+- [x] [罗马数字转整数 -3](https://github.com/HUYIJUNCODING/algorithm/blob/master/lib/mathematics.js)
 - [ ] 最长公共前缀   
 - [ ] 有效的括号  
 - [ ] 合并两个有序链表  
