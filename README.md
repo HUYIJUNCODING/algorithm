@@ -1,7 +1,8 @@
 # algorithm
-js 常见算法题
+> 常见算法题
+## 难度等级
+* 简单篇
 
-	
 - [x] [两数之和 -1](https://github.com/HUYIJUNCODING/algorithm/blob/master/lib/array.js)
 - [x] [整数反转 -1](https://github.com/HUYIJUNCODING/algorithm/blob/master/lib/mathematics.js)
 - [x] [回文数 -2](https://github.com/HUYIJUNCODING/algorithm/blob/master/lib/mathematics.js)  
